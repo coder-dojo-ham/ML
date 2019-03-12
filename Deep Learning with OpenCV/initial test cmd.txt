@@ -1,0 +1,8 @@
+
+Deep Learning with OpenCV:
+
+python deep_learning_with_opencv.py --image images/test2.jpg --prototxt bvlc_googlenet.prototxt --model bvlc_googlenet.caffemodel --labels synset_words.txt
+
+Deep_learning_object_detection
+
+python deep_learning_object_detection.py --image images/example_01.jpg --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel

@@ -1,2 +1,0 @@
-# ML
-Initial ML exercises 
